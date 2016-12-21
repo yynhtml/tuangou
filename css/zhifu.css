@@ -1,0 +1,35 @@
+body{background: #f4f4f4;}
+/*===============header==================*/
+#header{height: 2rem;line-height: 2rem;color: #fff;background: #009EFA;font-size: 0.8rem;text-align: center;width: 100%;}
+#header a:nth-of-type(1){float: left;padding-left: 0.5rem;color: #000;}
+#header a:nth-of-type(2){float: right;padding-right: 0.5rem;color: #000;}
+
+/*===============content==========================*/
+#content{width: 100%;overflow: hidden;padding-bottom: 0.5rem;}
+#content li{overflow: hidden;}
+#content .dingdan{margin: 0.5rem 0;overflow: hidden;background: #fff;}
+#content h5{height: 1.5rem;line-height: 1.5rem;font-size: 0.8rem;text-align: center;}
+#content .dingdan p:nth-of-type(1){float: left;width: 6rem;text-align: right;height: 1.5rem;line-height: 1.5rem;font-size: 0.6rem;}
+#content .dingdan li p:nth-of-type(2){float: right;width: 9.5rem;text-align: left;min-height: 1.5rem;line-height: 1.5rem;padding-left: 0.5rem;font-size: 0.6rem;}
+#content .dingdan li aa{display: block;}
+
+
+#content .xinxi{margin: 0.5rem 0;overflow: hidden;background: #fff;padding-bottom: 0.5rem;}
+#content .xinxi ul{border-bottom: 1px dotted #ccc;margin: 0 0.5rem;}
+#content .xinxi li p{float: left;width: 5.5rem;text-align: right;height: 1.5rem;line-height: 1.5rem;font-size: 0.6rem;}
+#content .xinxi li input{float: right;width: 9rem;text-align: left;height: 1.5rem;line-height: 1.5rem;padding-left: 0.5rem;color: #000;}
+
+#content .lianxinren{margin: 0.5rem 0;overflow: hidden;background: #fff;}
+#content .lianxinren li p{float: left;width: 6rem;text-align: right;height: 1.5rem;line-height: 1.5rem;font-size: 0.6rem;}
+#content .lianxinren li input{float: right;width: 9.5rem;text-align: left;height: 1.5rem;line-height: 1.5rem;padding-left: 0.5rem;color: #000;}
+
+
+#content .submit{overflow: hidden;}
+#content .submit a:nth-of-type(2){display: block;padding: 0.3rem;font-size: 0.7rem;background: #f40;float: left;color: #fff;margin-left: 2rem;}
+#content .submit a:nth-of-type(1){display: block;padding: 0.3rem;font-size: 0.7rem;background: #fff;float: left;margin-left: 3.7rem;}
+
+#content .zhuyi{padding: 0.5rem;line-height: 0.8rem;}
+#content .zhuyi h6{line-height: 1.5rem;}
+#content .zhuyi p{font-size: 0.5rem;}
+
+
